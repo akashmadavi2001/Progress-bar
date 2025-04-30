@@ -1,2 +1,2 @@
 # Progress-bar
-![Image](https://github.com/user-attachments/assets/dfd0709e-c222-4e28-87c9-2666f9654d97)
+![Image](https://github.com/user-attachments/assets/d1f7fa05-c276-4afc-bda1-cb243bc7aa05)
